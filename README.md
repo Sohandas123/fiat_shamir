@@ -2,7 +2,7 @@
 Used prime  p = ECC P-256 prime (NIST Suggested)
               
 ## ALGORITHM
-![Algorithm](https://github.com/[Sohandas123]/[fiat-shamir]/blob/[Main]/image.png?raw=true)
+![Algorithm](https://github.com/Sohandas123/fiat_shamir/blob/main/image.png?raw=true)
 
 
 ## How to run ?
@@ -14,8 +14,8 @@ Used prime  p = ECC P-256 prime (NIST Suggested)
     1. gcc fiat-shamir.c functions.c -o output
     2. ./output
 
-FOR Recompilation RUN :
-    - make clean
+FOR Recompilation RUN
+- make clean
 
 
 
